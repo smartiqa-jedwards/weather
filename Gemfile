@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+dsource 'https://rubygems.org'
 
 gem 'cucumber', '2.4.0'
 dgem 'httpi', '2.4.2'
